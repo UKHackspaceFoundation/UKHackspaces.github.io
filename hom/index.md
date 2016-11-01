@@ -19,10 +19,15 @@ An introduction to the UK Hackspace foundation and it's aims.
 * Community Interest Company
 * Charity
 
+## Ethics
+
+* Code of conduct
+
 ## Legal obligations
 
 * Bank account
 * Accounting
+* Insurance
 
 ## Discussion groups, mailing lists and web forums
 
